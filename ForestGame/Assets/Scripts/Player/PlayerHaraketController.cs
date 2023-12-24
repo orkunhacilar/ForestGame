@@ -227,7 +227,7 @@ public class PlayerHaraketController : MonoBehaviour
         rb.velocity = new Vector2(h * haraketHizi, rb.velocity.y);
         
 
-        
+     
     }
 
     void YonuDegistirFNC() {
