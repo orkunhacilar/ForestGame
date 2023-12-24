@@ -3,21 +3,27 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - kilicVurusBox
+  - Orumcek
+  - Bat
+  - Boa
+  - Ok
+  - iskelet
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - NoCollision
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Zemin
+  - PlayerLayer
+  - DusmanLayer
+  - KilicLayer
+  - TirmanmaLayer
+  - iskeletLayer
+  - okLayer
   - 
   - 
   - 
@@ -38,6 +44,24 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Backgrounds
+    uniqueID: 674971295
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Zemin
+    uniqueID: 2134515425
+    locked: 0
+  - name: ZeminObjeler
+    uniqueID: 589260321
+    locked: 0
+  - name: Objeler
+    uniqueID: 292656527
+    locked: 0
+  - name: Efektler
+    uniqueID: 3341343329
+    locked: 0
+  - name: Player
+    uniqueID: 277936251
     locked: 0
